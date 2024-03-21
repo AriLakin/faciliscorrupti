@@ -1,0 +1,36 @@
+{
+  "name": "faciliscorrupti",
+  "version": "1.0.0",
+  "description": "A Connect DID Authorization Center SDK that allows any hardware device to become a DID identity authentication device, providing a secure and convenient method for identity verification.",
+  "author": "MarcelleStark",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "module": "lib.esm/index.js",
+  "types": "lib/index.d.ts",
+  "keywords": [
+    "eaque",
+    "eos",
+    "voluptatum",
+    "temporibus",
+    "qui",
+    "sint",
+    "autem"
+  ],
+  "files": [
+    "lib",
+    "lib.esm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AriLakin/faciliscorrupti.git"
+  },
+  "dependencies": {
+    "cbor-web": "^9.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  },
+  "bugs": {
+    "url": "https://github.com/AriLakin/faciliscorrupti.git/issues"
+  }
+}
